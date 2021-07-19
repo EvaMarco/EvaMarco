@@ -22,7 +22,8 @@
   
   #### Connect with me:
 <p align="left">
-<a href="https://twitter.com/migara_archer" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true">
-<a href="https://www.linkedin.com/in/migara_archer/" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://dev.to/evamarco" target="_blank"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/migara_archer" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;
+<a href="https://www.linkedin.com/in/migara_archer/" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;
+<a href="https://dev.to/evamarco" target="_blank"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;
+<a href="https://gitlab.com/eva_marco" target="_blank"><img height="30" src=https://camo.githubusercontent.com/92155145d11c0c16b6d804cf10407c691d134283ced40c36ceecfb885b8b655c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746c61622e737667></a>&nbsp;&nbsp;
 </p>
