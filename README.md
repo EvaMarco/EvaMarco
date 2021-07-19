@@ -1,12 +1,12 @@
 ## Hi, I'm Eva 👋
-![Eva Marco](https://user-images.githubusercontent.com/48989967/126180837-caa384cf-36e7-491f-8bac-33cd191d0552.png)
+![Eva Marco](https://user-images.githubusercontent.com/48989967/126198714-aa4dbbde-d4ce-43c7-b181-da25b32aa2e6.png)
 
 ## About me
 
-- 🔭 I’m currently working on **my personal porfolio** ![here](https://github.com/EvaMarco/Eva_Marco_CV_web)
-- 🌱 I’m currently learning **react hoooks, and typescript**
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a crafter.
+- 😄 Pronouns: **she/her**
+- 🔭 I’m currently working on **![my personal porfolio](https://github.com/EvaMarco/Eva_Marco_CV_web)**.
+- 🌱 I’m currently learning **react hooks, and typescript**.
+- ⚡ Fun fact: **I'm a crafter**.
 
 
 #### Languages and Tools:
