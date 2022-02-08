@@ -4,7 +4,6 @@
 ## About me
 
 - 😄 Pronouns: **she/her**
-- 🔭 I’m currently working on **![my personal porfolio](https://github.com/EvaMarco/Eva_Marco_CV_web)**.
 - 🌱 I’m currently learning **clojure**.
 - ⚡ Fun fact: **I'm a crafter**.
 
